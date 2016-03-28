@@ -1,0 +1,19 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Diccionario
+Comment=Un cliente del diccionario castellano de la RAE
+Type=Service
+Icon=accessories-dictionary
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Javier Llorente
+X-KDE-PluginInfo-Email=javier@opensuse.org
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=org.kde.plasma.diccionario
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=plasma.kde.org
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-RemoteLocation=
+X-KDE-PluginInfo-Category=Education
+X-Plasma-StandAloneApp=true
