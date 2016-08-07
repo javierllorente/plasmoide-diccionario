@@ -18,7 +18,7 @@
 
 
 Name:           plasmoide-diccionario
-Version:        0.0.1
+Version:        0.1
 Release:        1
 Summary:        A Castilian RAE dictionary client
 License:        GPL-2.0 or GPL-3.0
